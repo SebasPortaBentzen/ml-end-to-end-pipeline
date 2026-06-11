@@ -17,7 +17,6 @@ archivo_csv = "dataset_2191_sleep.csv"
 if not os.path.exists(archivo_csv):
     raise FileNotFoundError(
         f"No se ha encontrado el archivo {archivo_csv}. "
-        "Asegúrate de que está en la misma carpeta que este script."
     )
 
 # Cargamos el dataset
