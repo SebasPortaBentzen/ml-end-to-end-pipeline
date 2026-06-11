@@ -57,22 +57,6 @@ The Decision Tree model achieved the best performance:
 
 These results indicate that the relationship between the variables is not purely linear and that tree-based models are better suited for this dataset.
 
-## Repository Structure
-
-```text
-data/
-database/
-reports/
-src/
-README.md
-```
-
-## Author
-
-Sebastià Porta Bentzen
-
-Junior Data Scientist | AI Engineer Junior
-
 ## Dashboard Preview
 
 ### Real vs Predicted Values
@@ -90,3 +74,19 @@ This visualization compares the real sleep values with the predictions generated
 Comparison of the evaluated Machine Learning models using MSE and R² metrics.
 
 The Decision Tree model achieved the best overall performance.
+
+## Repository Structure
+
+```text
+data/
+database/
+reports/
+src/
+README.md
+```
+
+## Author
+
+Sebastià Porta Bentzen
+
+Junior Data Scientist | AI Engineer Junior
